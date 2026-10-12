@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- 影渡りのアイコン（ホーム画面に追加したとき用）。夜の藍・月・朱の襟巻き。kw-180/192/512.png はこれから作る（work でなく public/icons に置く） -->
+  <rect width="512" height="512" fill="#05070c"/>
+  <circle cx="256" cy="256" r="236" fill="#1f2a44"/>
+  <circle cx="300" cy="196" r="112" fill="#f3eee2"/>
+  <circle cx="352" cy="160" r="104" fill="#1f2a44"/>
+  <path d="M110 372 C 190 332, 290 352, 402 300" fill="none" stroke="#e0452c" stroke-width="30" stroke-linecap="round"/>
+  <path d="M150 420 C 220 392, 300 400, 380 372" fill="none" stroke="#9fb4d8" stroke-width="10" stroke-linecap="round" opacity=".55"/>
+</svg>

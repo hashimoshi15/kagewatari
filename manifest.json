@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "影渡り 月下の一夜",
+  "short_name": "影渡り",
+  "description": "雨の東山の屋根を、鉤縄と影で渡る三人称の忍者アクション。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#05070c",
+  "theme_color": "#05070c",
+  "icons": [
+    { "src": "icons/kw-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/kw-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/kw-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
